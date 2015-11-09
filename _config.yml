@@ -1,0 +1,23 @@
+name: MeComo
+favicon: null
+layout_spectrum: 0.5677061853930354
+typography_spectrum: 0.6406958713196218
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.077768997522071
+  lightness: 0.36793733737431467
+  saturation: 0.7724289828911424
+  rhythmicContrast: 0.41601854120381176
+purpose: []
